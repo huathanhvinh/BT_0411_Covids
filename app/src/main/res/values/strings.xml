@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BT_0411_Covids</string>
+    <array name="tinhTrang">
+        <item>F0</item>
+        <item>F1</item>
+        <item>F2</item>
+        <item>Chưa Tiêm</item>
+        <item>Khác</item>
+    </array>
+</resources>
